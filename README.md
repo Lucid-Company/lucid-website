@@ -1,5 +1,5 @@
 # 🌙 LucidOS's Official Website Repo
-Welcome to our website's official repository
+Welcome to our website's official repository.
 This website is 100% Open-source
 
 Maintainer: JakeTheDev (@DumbJake) On GitHub.
